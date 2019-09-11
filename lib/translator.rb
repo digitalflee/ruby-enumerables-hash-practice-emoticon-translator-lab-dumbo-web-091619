@@ -1,6 +1,5 @@
 require 'yaml'
 
-
 def load_library('../lib/emoticons.yml')
 
 end
