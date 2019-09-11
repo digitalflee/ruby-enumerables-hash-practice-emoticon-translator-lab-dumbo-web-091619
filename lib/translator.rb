@@ -1,5 +1,4 @@
-require 'emoticon-translator-lab-dumbo-web-091619/lib/emoticons.yml'
-YAML.load_file('emoticons.yml')
+require 'yaml'
 
 
 def load_library
